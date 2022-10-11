@@ -10,3 +10,5 @@ print (numbers)
 # the below llin 11 are same as the lines from 5 to 8
 # numbers = list(map(int, strval))
 # print (numbers)
+y = int(input())
+print(numbers.count(y))
